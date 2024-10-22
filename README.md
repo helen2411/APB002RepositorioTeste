@@ -27,8 +27,3 @@ Código sublinhado
 
 - [ ] Marcação
 
-Num|Nome|Nota
-
----|---|---
-
-1|Helen|10
