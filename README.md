@@ -7,4 +7,28 @@ Anotações de comandos Markdown
 ## = Título médio
 ### = Título menor
 
-** Negrito **
+**Negrito**
+~~Teste~~
+_Teste_
+_**Teste**_
+
+Lista 
+1. Lista
+2. Numerada
+
+* Lista
+* Pontuada
+
+`Código Transparente`
+
+```
+Código sublinhado
+```
+
+- [ ] Marcação
+
+Num|Nome|Nota
+
+---|---|---
+
+1|Helen|10
